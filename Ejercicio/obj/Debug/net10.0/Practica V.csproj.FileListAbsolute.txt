@@ -1,0 +1,14 @@
+C:\Users\franc\OneDrive\Documentos\Tareas segundo cuatri itla\Fundamentos del computador\Practica V\Ejercicio\bin\Debug\net10.0\Practica V.exe
+C:\Users\franc\OneDrive\Documentos\Tareas segundo cuatri itla\Fundamentos del computador\Practica V\Ejercicio\bin\Debug\net10.0\Practica V.deps.json
+C:\Users\franc\OneDrive\Documentos\Tareas segundo cuatri itla\Fundamentos del computador\Practica V\Ejercicio\bin\Debug\net10.0\Practica V.runtimeconfig.json
+C:\Users\franc\OneDrive\Documentos\Tareas segundo cuatri itla\Fundamentos del computador\Practica V\Ejercicio\bin\Debug\net10.0\Practica V.dll
+C:\Users\franc\OneDrive\Documentos\Tareas segundo cuatri itla\Fundamentos del computador\Practica V\Ejercicio\bin\Debug\net10.0\Practica V.pdb
+C:\Users\franc\OneDrive\Documentos\Tareas segundo cuatri itla\Fundamentos del computador\Practica V\Ejercicio\obj\Debug\net10.0\Practica V.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Documentos\Tareas segundo cuatri itla\Fundamentos del computador\Practica V\Ejercicio\obj\Debug\net10.0\Practica V.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Documentos\Tareas segundo cuatri itla\Fundamentos del computador\Practica V\Ejercicio\obj\Debug\net10.0\Practica V.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Documentos\Tareas segundo cuatri itla\Fundamentos del computador\Practica V\Ejercicio\obj\Debug\net10.0\Practica V.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documentos\Tareas segundo cuatri itla\Fundamentos del computador\Practica V\Ejercicio\obj\Debug\net10.0\Practica V.dll
+C:\Users\franc\OneDrive\Documentos\Tareas segundo cuatri itla\Fundamentos del computador\Practica V\Ejercicio\obj\Debug\net10.0\refint\Practica V.dll
+C:\Users\franc\OneDrive\Documentos\Tareas segundo cuatri itla\Fundamentos del computador\Practica V\Ejercicio\obj\Debug\net10.0\Practica V.pdb
+C:\Users\franc\OneDrive\Documentos\Tareas segundo cuatri itla\Fundamentos del computador\Practica V\Ejercicio\obj\Debug\net10.0\Practica V.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Documentos\Tareas segundo cuatri itla\Fundamentos del computador\Practica V\Ejercicio\obj\Debug\net10.0\ref\Practica V.dll

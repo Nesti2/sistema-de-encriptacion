@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Documentos\\Tareas segundo cuatri itla\\Fundamentos del computador\\Practica V\\Ejercicio\\Practica V.csproj",
+      "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Documentos\\Tareas segundo cuatri itla\\Fundamentos del computador\\Practica V\\programa de encriptacion\\Practica V.csproj",
       "projectName": "Practica V",
-      "projectPath": "C:\\Users\\franc\\OneDrive\\Documentos\\Tareas segundo cuatri itla\\Fundamentos del computador\\Practica V\\Ejercicio\\Practica V.csproj",
+      "projectPath": "C:\\Users\\franc\\OneDrive\\Documentos\\Tareas segundo cuatri itla\\Fundamentos del computador\\Practica V\\programa de encriptacion\\Practica V.csproj",
       "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\franc\\OneDrive\\Documentos\\Tareas segundo cuatri itla\\Fundamentos del computador\\Practica V\\Ejercicio\\obj\\",
+      "outputPath": "C:\\Users\\franc\\OneDrive\\Documentos\\Tareas segundo cuatri itla\\Fundamentos del computador\\Practica V\\programa de encriptacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config"
